@@ -1,2 +1,3 @@
-# duck-face
-Front end for the portfolio project 
+# Hello there
+
+Laughing all the way
